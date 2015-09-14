@@ -1,0 +1,14 @@
+{application, erlgraph,
+ [
+  {description, "Display erlang processes in a d3js force directed graph"},
+  {vsn, "0.1"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib,
+                  gproc,
+                  cowboy
+                 ]},
+  {mod, { erlgraph_app, []}},
+  {env, [{port, 7777}]}
+ ]}.

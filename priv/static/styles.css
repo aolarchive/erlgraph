@@ -1,0 +1,17 @@
+body {
+    background: #EAE3CB;
+    color: #1b6e88;
+    font-family: Merriweather, serif;
+    font-size: 0.8rem;
+    line-height: 160%;
+}
+h1 {
+    font-family: serif;
+    font-size: 2.3rem;
+    font-weight: normal;
+    text-shadow: #FCF4DC 1px 1px;
+    color: #1f7f9e;
+    margin-bottom: .4rem;
+    border-bottom: 1px solid #819090;
+    padding-top: 10px;
+}
