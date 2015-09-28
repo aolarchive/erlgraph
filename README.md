@@ -31,7 +31,7 @@ erlgraph may be started with: erlgraph_app:start().
 
 
 ## Usage
-Set the port you want the webserver to run on in erlgraph.app.src, or add to your
+Set the port you want the webserver to run on in src/erlgraph.app.src, or add to your
 app.config the following (which assumes you want to use port 8888):
 {erlgraph, [
     {port, 8888}

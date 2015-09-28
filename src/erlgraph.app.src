@@ -10,5 +10,5 @@
                   cowboy
                  ]},
   {mod, { erlgraph_app, []}},
-  {env, [{port, 7777}]}
+  {env, [{port, 8888}]}
  ]}.
