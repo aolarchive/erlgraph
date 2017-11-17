@@ -15,7 +15,7 @@ can be fetched by the web interface from the VM via the websocket.
 
 
 ## Installing
-You will need Erlang R17 as this application uses a version of cowboy which is dependending on R17.
+You will need Erlang R17 as this application uses a version of cowboy which is depending on R17.
 
 
 ### As a standalone application
